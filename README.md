@@ -2,7 +2,6 @@
 A simple yet powerful utility for Meta Quest headsets that allows you to toggle your Wi-Fi connection on or off globally using a physical button hotkey, without ever leaving your current VR application.
 
 # Description
-Have you ever been in the middle of an intense VR game and needed to quickly disconnect from the internet to prevent interruptions or lag spikes? Wi-Fi Toggle for Quest is a small background utility that provides a simple solution.
 
 Once installed and enabled, it runs silently in the background, listening for a specific hardware button combination. When you press Volume Down followed immediately by Volume Up, the app will instantly turn your Wi-tFi on or off, providing a small confirmation message in your headset.
 
